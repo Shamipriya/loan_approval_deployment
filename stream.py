@@ -19,7 +19,7 @@ st.set_page_config(
 # LOAD MODEL
 # =====================================================
 
-model = joblib.load("../model_joblib.pkl")
+model = joblib.load("model_joblib.pkl")
 
 
 # =====================================================
