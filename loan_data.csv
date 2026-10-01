@@ -1,0 +1,21 @@
+age,gender,marital_status,education_level,annual_income,monthly_income,employment_status,debt_to_income_ratio,credit_score,loan_amount,loan_purpose,interest_rate,loan_term,installment,grade_subgrade,num_of_open_accounts,total_credit_limit,current_balance,delinquency_history,public_records,num_of_delinquencies,loan_paid_back
+59,Male,Married,Master's,24240.19,2020.02,Employed,0.074,743,17173.72,Car,13.39,36,581.88,B5,7,40833.47,24302.07,1,0,1,1
+34,Female,Single,Bachelor's,52000.50,4333.38,Employed,0.185,721,12000.00,Education,10.25,36,387.14,A4,6,52000.00,18500.32,0,0,0,1
+45,Male,Married,Bachelor's,68500.75,5708.40,Employed,0.221,689,25000.00,Home,12.75,60,563.20,B4,9,75000.00,42150.60,1,0,2,1
+28,Female,Single,Master's,45000.00,3750.00,Employed,0.132,756,10000.00,Personal,9.85,36,321.92,A3,5,48000.00,12500.00,0,0,0,1
+52,Male,Married,High School,31500.25,2625.02,Self-Employed,0.315,642,18000.00,Business,15.20,48,502.75,C3,11,39000.00,28750.80,2,1,3,0
+39,Female,Married,Bachelor's,78000.00,6500.00,Employed,0.156,782,30000.00,Home,8.75,60,618.72,A2,8,95000.00,35420.00,0,0,0,1
+31,Male,Single,Bachelor's,41000.40,3416.70,Employed,0.198,668,15000.00,Car,13.10,48,402.15,B5,7,45000.00,22100.50,1,0,1,1
+47,Female,Married,Master's,92500.80,7708.40,Employed,0.119,805,35000.00,Home,7.95,60,708.33,A1,10,125000.00,43200.00,0,0,0,1
+26,Male,Single,High School,28500.00,2375.00,Employed,0.287,615,9000.00,Personal,16.45,36,317.25,D2,4,28000.00,19200.00,3,1,4,0
+41,Female,Married,Bachelor's,63500.30,5291.69,Employed,0.173,735,22000.00,Medical,10.95,48,568.44,B2,8,68000.00,27850.00,0,0,0,1
+55,Male,Married,Master's,110000.00,9166.67,Employed,0.102,818,40000.00,Home,7.50,60,801.30,A1,12,150000.00,51000.00,0,0,0,1
+36,Female,Single,Bachelor's,57000.60,4750.05,Employed,0.205,704,16000.00,Car,11.80,36,529.75,B3,6,57000.00,23900.45,1,0,1,1
+49,Male,Married,High School,39000.00,3250.00,Self-Employed,0.342,598,14000.00,Business,17.25,48,414.20,D4,13,42000.00,32600.00,3,1,5,0
+23,Female,Single,Bachelor's,33000.00,2750.00,Employed,0.245,651,8000.00,Education,14.30,36,274.60,C2,4,35000.00,16800.00,1,0,2,0
+44,Male,Married,Master's,84500.25,7041.69,Employed,0.148,770,28000.00,Car,9.25,48,701.15,A3,9,105000.00,39000.25,0,0,0,1
+38,Female,Married,Bachelor's,61000.00,5083.33,Employed,0.192,728,19000.00,Personal,11.25,36,625.40,B2,7,62000.00,26700.00,1,0,1,1
+61,Male,Married,High School,27000.50,2250.04,Self-Employed,0.381,575,12000.00,Medical,18.75,48,351.10,D5,15,30000.00,28900.00,4,2,6,0
+29,Female,Single,Master's,72000.00,6000.00,Employed,0.128,790,24000.00,Education,8.65,36,760.10,A2,6,85000.00,21400.00,0,0,0,1
+50,Male,Married,Bachelor's,56000.75,4666.73,Employed,0.236,680,21000.00,Home,13.75,60,483.15,B5,10,67000.00,41200.75,1,0,2,1
+33,Female,Single,Bachelor's,48000.20,4000.02,Employed,0.214,695,13000.00,Car,12.40,36,434.50,B4,5,51000.00,20700.20,1,0,1,1
